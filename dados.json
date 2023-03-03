@@ -1,0 +1,76 @@
+{
+    "moratMusica1":{
+        "name": "Morat", 
+        "albun": "Balas perdidas",
+        "music": "Acuérdate De Mí",
+        "style": "pop",
+        "price": "R$ 30,00",
+        "image": "<img src='../imagens/AcuerdateDeMi.jpg'>"
+    },
+    "moratMusica2":{
+        "name": "Morat e Juanes", 
+        "albun": "Si ayer fuera hoy",
+        "music": "506",
+        "style": "pop",
+        "price": "R$ 30,00",
+        "image": "<img src='../imagens/506.jpg'>"
+    },
+    "moratMusica3":{
+        "name": "Morat", 
+        "albun": "¿A Dónde Vamos?",
+        "music": "Nunca Te Olvidé",
+        "style": "Pop, Hip-Hop/rap, Tropipop",
+        "price": "R$ 30,00",
+        "image": "<img src='../imagens/nuncaTeOlvide.jpg'>"
+    },
+
+    "timoMusica1":{
+        "name": "Timo", 
+        "albun": "Algo Diferente",
+        "music": "Despierto",
+        "style": "pop",
+        "price": "R$ 25,00",
+        "image": "<img src='../imagens/despierto.jpg'>"
+    },
+    "timoMusica2":{
+        "name": "Timo", 
+        "albun": "Enero",
+        "music": "Enero",
+        "style": "pop",
+        "price": "R$ 25,00",
+        "image": "<img src='../imagens/enero.jpg'>"
+    },
+    "timoMusica3":{
+        "name": "Timo", 
+        "albun": "Algo Diferente",
+        "music": "Baila Sola",
+        "style": "pop",
+        "price": "R$ 25,00",
+        "image": "<img src='../imagens/bailaSola.jpg'>"
+    },
+
+    "charlieRoddMusica1":{
+        "name": "Charlie Rodd", 
+        "albun": "Mundo de dos",
+        "music": "Al final",
+        "style": "pop",
+        "price": "R$ 20,00",
+        "image": "<img src='../imagens/algoMejor.jpg'>"
+    },
+    "charlieRoddMusica2":{
+        "name": "Charlie Rodd", 
+        "albun": "Algo Mejor",
+        "music": "Llegas Tú",
+        "style": "pop",
+        "price": "R$ 20,00",
+        "image": "<img src='../imagens/algoMejor.jpg'>"
+    },
+    "charlieRoddMusica3":{
+        "name": "Charlie Rodd", 
+        "albun": "Algo Mejor",
+        "music": "Llegas Tú",
+        "style": "pop",
+        "price": "R$ 20,00",
+        "image": "<img src='../imagens/algoMejor.jpg'>"
+    }
+}
